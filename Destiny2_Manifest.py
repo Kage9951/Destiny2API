@@ -1,5 +1,5 @@
-# All of these imports used, if the code is broken down into several sections like it is on the wiki,
-# might not make sense to include all of them at the beginning, but will save time for new devs
+# Code from http://destinydevs.github.io/BungieNetPlatform/docs/Manifest
+# with some minor edits
 
 import requests
 import zipfile
