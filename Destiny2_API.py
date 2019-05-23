@@ -26,7 +26,7 @@ def call_API(endpoint, **kwargs):
     # Send the request
     response = requests.get(
         url,
-        headers={'x-api-key': '5aa40b3bb4804c2d9199187a7730c4f4'},
+        headers={'x-api-key': '<API KEY HERE>'},
     )
 
     # TO DO make some error checking on the response
